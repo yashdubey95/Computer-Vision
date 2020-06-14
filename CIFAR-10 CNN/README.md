@@ -1,1 +1,1 @@
-
+This section of the repository covers the implementation of a CNN architecture using Tensorflow 2.0 designed to be trained and tested on the CIFAR-10 dataset and monitoring and visualizing a) the trainig accuracy vs. validation accuracy wrt each epoch and b) the training loss vs. accuracy loss wrt each epoch.
